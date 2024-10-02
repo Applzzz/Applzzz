@@ -1,4 +1,4 @@
-# Yo, I’m @Applzzz
+# Yo, I’m @Applz
 - I do Platform coding + addons
 > Including Discord Vencord plugins
 
